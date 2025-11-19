@@ -33,7 +33,7 @@ If there is no solution to the problem  print  "Solution does not exist"
 /*
 Program to implement Reverse a String
 Developed by: nikhil
-Register Number: 212224040210 
+Register Number: 212224040219 
 */
 
 import java.util.Scanner;
